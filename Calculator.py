@@ -77,8 +77,3 @@ def get_final_result ():
     print(calculate(get_numbers()))
 
 get_final_result ()
- 
-
-
-
-
